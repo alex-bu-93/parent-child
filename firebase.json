@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/parent-child",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
